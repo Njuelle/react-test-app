@@ -1,0 +1,2521 @@
+{
+  "data": [
+    {
+      "_id": "61b3336c58a5c50016f55295",
+      "propertyIdNumber": 4073,
+      "title": "Coliving - Appartement T4 65m² - Montpellier 34070",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 65,
+      "nbRooms": 4,
+      "isCrushed": true,
+      "isKolivingPlus": true,
+      "floor": 5,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": "AVAILABLE",
+        "rentPrice": null,
+        "utilities": 0,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "61b33a0658a5c50016f556f2",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b3336c58a5c50016f55295-1639135749171-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61b339f558a5c50016f556ef",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b3336c58a5c50016f55295-1639135732162-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61b339e458a5c50016f556ec",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b3336c58a5c50016f55295-1639135715691-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61b3395558a5c50016f556e3",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b3336c58a5c50016f55295-1639135571519-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61b3390058a5c50016f556e0",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b3336c58a5c50016f55295-1639135486885-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61b338e958a5c50016f556dd",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b3336c58a5c50016f55295-1639135463903-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61b338c658a5c50016f556da",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b3336c58a5c50016f55295-1639135429258-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "61b334b458a5c50016f5562f",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 470,
+            "utilities": 70,
+            "availableAt": "2021-12-17T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61b334b558a5c50016f55630",
+          "roomIdNumber": 2,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61b334b558a5c50016f55631",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "114 Rue Guillaume Janvier",
+        "city": "Montpellier",
+        "zip": "34070",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 470,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "60af6b6d8628100015ad1711",
+      "propertyIdNumber": 3696,
+      "title": "Coliving - Appartement T5 102m² - Montpellier 34000",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 102,
+      "nbRooms": 5,
+      "isCrushed": true,
+      "isKolivingPlus": true,
+      "floor": 1,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "6200f346b99cdf00164c3735",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60af6b6d8628100015ad1711-1644229445591-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "621f6c5f8b209c0016400820",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60af6b6d8628100015ad1711-1646226523107-PROPERTY_COMMON_PICTURES.png",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6200f344b99cdf00164c3720",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60af6b6d8628100015ad1711-1644229443939-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6200f346b99cdf00164c3732",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60af6b6d8628100015ad1711-1644229445503-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6200f344b99cdf00164c3729",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60af6b6d8628100015ad1711-1644229444019-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6200f344b99cdf00164c3726",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60af6b6d8628100015ad1711-1644229443986-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6200f344b99cdf00164c3723",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60af6b6d8628100015ad1711-1644229443845-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "60af6b6d8628100015ad1712",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 510,
+            "utilities": 80,
+            "availableAt": "2022-03-01T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60af6c088628100015ad1715",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 500,
+            "utilities": 80,
+            "availableAt": "2022-03-01T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60af6c088628100015ad1716",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "IN_PROCESS",
+            "rentPrice": 480,
+            "utilities": 80,
+            "availableAt": "2022-03-01T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60af6c088628100015ad1717",
+          "roomIdNumber": 4,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 510,
+            "utilities": 80,
+            "availableAt": "2022-03-01T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "167 Rue de la Croix du S",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 480,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "61b375a13d58060016155d13",
+      "propertyIdNumber": 4074,
+      "title": "Coliving - Appartement T4 65m² - Montpellier 34090",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 65,
+      "nbRooms": 4,
+      "isCrushed": true,
+      "isKolivingPlus": true,
+      "floor": 5,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": "AVAILABLE",
+        "rentPrice": null,
+        "utilities": 0,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "61d81932aeb6830016d154b8",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1641552176966-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f9007dc800164dfa81",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758328726-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f7007dc800164dfa6f",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758326522-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f9007dc800164dfa7e",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758328646-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f7007dc800164dfa78",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758326581-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f7007dc800164dfa75",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758326442-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f7007dc800164dfa72",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758326495-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f7007dc800164dfa6c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758326437-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 7,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61bcb9f8007dc800164dfa7b",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61b375a13d58060016155d13-1639758326912-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 8,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "61b376273d58060016155d1a",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 490,
+            "utilities": 60,
+            "availableAt": "2021-12-18T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61b376273d58060016155d1b",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 490,
+            "utilities": 60,
+            "availableAt": "2021-12-18T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61b376273d58060016155d1c",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 490,
+            "utilities": 60,
+            "availableAt": "2021-12-18T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "480 Av. du Major Flandre",
+        "city": "Montpellier",
+        "zip": "34090",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 490,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "611b05633056ad0016def159",
+      "propertyIdNumber": 3880,
+      "title": "Coliving - Appartement T3 80m² - Montpellier 34000",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 80,
+      "nbRooms": 3,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": 3,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "611b14d43056ad0016def161",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629164756204-PROPERTY_COMMON_PICTURES_kflzur.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "611b17ea3056ad0016def17f",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629165546361-PROPERTY_COMMON_PICTURES_n8q2jk.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "611b17c13056ad0016def179",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629165505750-PROPERTY_COMMON_PICTURES_skojxj.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "611b17c23056ad0016def17c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629165506426-PROPERTY_COMMON_PICTURES_dnhiiy.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "611b17bb3056ad0016def176",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629165499618-PROPERTY_COMMON_PICTURES_edykwh.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "611b14d53056ad0016def164",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629164756938-PROPERTY_COMMON_PICTURES_bw8afv.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "611b14d53056ad0016def167",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629164756945-PROPERTY_COMMON_PICTURES_mzzdos.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "611b14d53056ad0016def16a",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/611b05633056ad0016def159-1629164757448-PROPERTY_COMMON_PICTURES_jsj3n1.jpg",
+          "position": 7,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "611b05633056ad0016def15a",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 690,
+            "utilities": 100,
+            "availableAt": "2021-09-01T16:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "611b05a33056ad0016def15d",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "9 Rue de la Valfere",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": true,
+      "lowestRoomPrice": 690,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "61fbaddfbea538001665a8e2",
+      "propertyIdNumber": 6989,
+      "title": "Coliving - Appartement T4 73m² - Montpellier 34000",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 73,
+      "nbRooms": 4,
+      "isCrushed": false,
+      "isKolivingPlus": true,
+      "floor": 2,
+      "nbFloors": null,
+      "rentInfos": null,
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "61fbbad7bea538001665b4cc",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61fbaddfbea538001665a8e2-1643887318488-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61fbbad7bea538001665b4d5",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61fbaddfbea538001665a8e2-1643887318732-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61fbbad7bea538001665b4d2",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61fbaddfbea538001665a8e2-1643887318670-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61fbbad7bea538001665b4cf",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61fbaddfbea538001665a8e2-1643887318699-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "61fbb044bea538001665acdc",
+          "roomIdNumber": 1,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61fbb044bea538001665acdd",
+          "roomIdNumber": 2,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61fbb044bea538001665acde",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 550,
+            "utilities": 110,
+            "availableAt": "2022-03-01T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "7 Pl. Saint-Come",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 550,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "607d9c1ff0ee2400150056b7",
+      "propertyIdNumber": 3597,
+      "title": "Coliving - Appartement T4 71m² - Montpellier 34070",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 71,
+      "nbRooms": 4,
+      "isCrushed": false,
+      "isKolivingPlus": true,
+      "floor": 2,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "607d9d79f0ee2400150056e8",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607d9c1ff0ee2400150056b7-1618845049013-PROPERTY_COMMON_PICTURES_sbhw6g.png",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "607d9d78f0ee2400150056e5",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607d9c1ff0ee2400150056b7-1618845048768-PROPERTY_COMMON_PICTURES_tnrhqj.png",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "607d9d78f0ee2400150056de",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607d9c1ff0ee2400150056b7-1618845047995-PROPERTY_COMMON_PICTURES_kniyez.png",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "607d9d78f0ee2400150056dd",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607d9c1ff0ee2400150056b7-1618845048399-PROPERTY_COMMON_PICTURES_sktkyp.png",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "607d9d78f0ee2400150056dc",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607d9c1ff0ee2400150056b7-1618845047899-PROPERTY_COMMON_PICTURES_eld2pz.png",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "607d9d78f0ee2400150056d9",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607d9c1ff0ee2400150056b7-1618845047437-PROPERTY_COMMON_PICTURES_rjcxbl.png",
+          "position": 5,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "607d9c1ff0ee2400150056b8",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 480,
+            "utilities": 70,
+            "availableAt": "2021-05-17T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "607d9c6df0ee2400150056d5",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60a66176e133390015049ab2",
+          "roomIdNumber": 5,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 460,
+            "utilities": 70,
+            "availableAt": "2022-03-15T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "24 Rue Saint-Jacques",
+        "city": "Montpellier",
+        "zip": "34070",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 460,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "61eed2ebe253940016e119da",
+      "propertyIdNumber": 6973,
+      "title": "Coliving - Appartement T4 82m² - Montpellier 34070",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 82,
+      "nbRooms": 4,
+      "isCrushed": false,
+      "isKolivingPlus": true,
+      "floor": 3,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "MID_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "61eed9f6e253940016e121d1",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61eed2ebe253940016e119da-1643043318212-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61eed9d0e253940016e121cb",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61eed2ebe253940016e119da-1643043279869-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61eed9c3e253940016e121c8",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61eed2ebe253940016e119da-1643043266794-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61eed9aee253940016e121c1",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/61eed2ebe253940016e119da-1643043245102-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "61eed3b1e253940016e119df",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 420,
+            "utilities": 100,
+            "availableAt": "2022-02-01T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61eed3b1e253940016e119e0",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 550,
+            "utilities": 100,
+            "availableAt": "2022-01-25T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61eed3b2e253940016e119e1",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 420,
+            "utilities": 100,
+            "availableAt": "2022-01-25T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "27 All. de la Chartreuse",
+        "city": "Montpellier",
+        "zip": "34070",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 420,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "60b647816e1397001593a58e",
+      "propertyIdNumber": 3714,
+      "title": "Coliving - Appartement T5 101m² - Montpellier 34000",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 101,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": true,
+      "floor": 0,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "61815f0297df990016fdb69a",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60b647816e1397001593a58e-1635868416845-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60b649b06e1397001593a5ab",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60b647816e1397001593a58e-1622559152001-PROPERTY_COMMON_PICTURES_wcistb.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61815f0d97df990016fdb69d",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60b647816e1397001593a58e-1635868427431-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "61815ef297df990016fdb697",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60b647816e1397001593a58e-1635868400263-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "60b647816e1397001593a58f",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 557,
+            "utilities": 77,
+            "availableAt": "2022-04-07T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60b647816e1397001593a590",
+          "roomIdNumber": 2,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "618155aa97df990016fdb68d",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 547,
+            "utilities": 77,
+            "availableAt": "2021-12-01T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "61a6101efa59710016b2289c",
+          "roomIdNumber": 4,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 557,
+            "utilities": 77,
+            "availableAt": "2021-12-18T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "58 Impasse Caravelle",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 547,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "604f6b7d04f25c00150e3409",
+      "propertyIdNumber": 3501,
+      "title": "Coliving - Appartement T5 70m² - Montpellier 34070",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 70,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": null,
+      "floor": 2,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "604f711804f25c00150e3445",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/604f6b7d04f25c00150e3409-1615819032747-PROPERTY_COMMON_PICTURES_m5oag3.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60d9d224f4965f0015ea8485",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/604f6b7d04f25c00150e3409-1624887844239-PROPERTY_COMMON_PICTURES_vbjnoz.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60d9d224f4965f0015ea8482",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/604f6b7d04f25c00150e3409-1624887844171-PROPERTY_COMMON_PICTURES_c47iiw.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "604f711904f25c00150e3448",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/604f6b7d04f25c00150e3409-1615819033313-PROPERTY_COMMON_PICTURES_xw49or.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "604f711804f25c00150e3440",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/604f6b7d04f25c00150e3409-1615819032736-PROPERTY_COMMON_PICTURES_xpktm6.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "604f711804f25c00150e343d",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/604f6b7d04f25c00150e3409-1615819032714-PROPERTY_COMMON_PICTURES_cr6sju.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "604f711804f25c00150e343c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/604f6b7d04f25c00150e3409-1615819032620-PROPERTY_COMMON_PICTURES_xvhsf1.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "604f6b7d04f25c00150e340a",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 460,
+            "utilities": 60,
+            "availableAt": "2022-03-13T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "604f6bbf04f25c00150e340d",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60e6c919b58d460015b59a9d",
+          "roomIdNumber": 8,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60e6c919b58d460015b59a9e",
+          "roomIdNumber": 9,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "728 Rue de Fontcarrade",
+        "city": "Montpellier",
+        "zip": "34070",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 460,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "60d5f9ac7de4d40015545fe1",
+      "propertyIdNumber": 3748,
+      "title": "Coliving - Appartement T5 70m² - Montpellier 34070",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 70,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": 4,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "60d5fcaf7de4d40015545fee",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60d5f9ac7de4d40015545fe1-1624636591289-PROPERTY_COMMON_PICTURES_ueq3kf.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60d5fcaf7de4d40015545feb",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60d5f9ac7de4d40015545fe1-1624636591277-PROPERTY_COMMON_PICTURES_stwfhq.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60d5fcaf7de4d40015545fe8",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60d5f9ac7de4d40015545fe1-1624636591055-PROPERTY_COMMON_PICTURES_oba9nf.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "60d5f9ac7de4d40015545fe2",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 460,
+            "utilities": 60,
+            "availableAt": "2021-07-01T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60d5fb517de4d40015545fe5",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60d5fb517de4d40015545fe6",
+          "roomIdNumber": 4,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60d5fb517de4d40015545fe7",
+          "roomIdNumber": 5,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "728 Rue de Fontcarrade",
+        "city": "Montpellier",
+        "zip": "34070",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": true,
+      "lowestRoomPrice": 460,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "6064fc89195bd30015fa6487",
+      "propertyIdNumber": 3555,
+      "title": "Coliving - Appartement T3 68m² - Montpellier 34080",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 68,
+      "nbRooms": 3,
+      "isCrushed": false,
+      "isKolivingPlus": null,
+      "floor": 5,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "606614d97a48af00159585f4",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302744922-PROPERTY_COMMON_PICTURES_kvofgh.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "606614b17a48af00159585ee",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302704862-PROPERTY_COMMON_PICTURES_k6yrrz.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "606614a77a48af00159585eb",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302694917-PROPERTY_COMMON_PICTURES_prxqzz.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "606614a07a48af00159585e8",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302688387-PROPERTY_COMMON_PICTURES_bjiycw.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6066149e7a48af00159585e5",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302685961-PROPERTY_COMMON_PICTURES_zmzif3.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "606614977a48af00159585e2",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302679453-PROPERTY_COMMON_PICTURES_ve8gmj.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "606614947a48af00159585df",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302676348-PROPERTY_COMMON_PICTURES_krupcl.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "606614bc7a48af00159585f1",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6064fc89195bd30015fa6487-1617302716659-PROPERTY_COMMON_PICTURES_kcvsk1.jpg",
+          "position": 7,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "6064fc89195bd30015fa6488",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 459,
+            "utilities": 69,
+            "availableAt": "2021-04-01T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "6064fc89195bd30015fa6489",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 439,
+            "utilities": 69,
+            "availableAt": "2021-04-01T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "6064fcf4195bd30015fa648b",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "52 Allée du Chardonnay",
+        "city": "Montpellier",
+        "zip": "34080",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": true,
+      "lowestRoomPrice": 439,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "609d7d06121d2b0015d6594d",
+      "propertyIdNumber": 3677,
+      "title": "Coliving - Maison T5 137m² - Montpellier 34080",
+      "type": "house",
+      "rentType": "SHARED",
+      "surface": 137,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": null,
+      "floor": null,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "609d8164121d2b0015d65989",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620935012193-PROPERTY_COMMON_PICTURES_sqiweu.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f46121d2b0015d65986",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934470736-PROPERTY_COMMON_PICTURES_x6osw2.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f45121d2b0015d65983",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934468883-PROPERTY_COMMON_PICTURES_aucgll.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f45121d2b0015d65980",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934468800-PROPERTY_COMMON_PICTURES_b32j05.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f44121d2b0015d6597d",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934468591-PROPERTY_COMMON_PICTURES_ei9gkc.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f40121d2b0015d6597a",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934464471-PROPERTY_COMMON_PICTURES_o6ofy1.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f3c121d2b0015d6596b",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934460073-PROPERTY_COMMON_PICTURES_rbmop1.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f3f121d2b0015d65977",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934463477-PROPERTY_COMMON_PICTURES_rlrdsx.jpg",
+          "position": 7,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "609d7f3d121d2b0015d65971",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/609d7d06121d2b0015d6594d-1620934461178-PROPERTY_COMMON_PICTURES_hqaewt.jpg",
+          "position": 8,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "609d7d06121d2b0015d6594e",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 510,
+            "utilities": 40,
+            "availableAt": "2022-04-10T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "609d7d06121d2b0015d6594f",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 520,
+            "utilities": 20,
+            "availableAt": "2022-04-01T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "609d7d6c121d2b0015d65951",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 530,
+            "utilities": 40,
+            "availableAt": "2021-09-01T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "609d7d6c121d2b0015d65952",
+          "roomIdNumber": 4,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 660,
+            "utilities": 30,
+            "availableAt": "2021-09-01T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "28 Rue des Avant Monts",
+        "city": "Montpellier",
+        "zip": "34080",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 510,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "607eeee40b2fec0015310629",
+      "propertyIdNumber": 3613,
+      "title": "Coliving - Appartement T5 98m² - Montpellier 34080",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 98,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": true,
+      "floor": 1,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "60ca101e5469b20015d7be55",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1623855134561-PROPERTY_COMMON_PICTURES_ylajla.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60ca101e5469b20015d7be58",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1623855134292-PROPERTY_COMMON_PICTURES_ur0uo1.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60ca101e5469b20015d7be52",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1623855134158-PROPERTY_COMMON_PICTURES_ydoeuh.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60ca10235469b20015d7be5e",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1623855139504-PROPERTY_COMMON_PICTURES_tspjyk.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60ca101d5469b20015d7be4f",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1623855133671-PROPERTY_COMMON_PICTURES_pyeyop.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60ca101d5469b20015d7be4c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1623855133304-PROPERTY_COMMON_PICTURES_kqgxkk.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "607ef1a00b2fec001531065d",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1618932128109-PROPERTY_COMMON_PICTURES_lr2qts.png",
+          "position": 6,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60ca101f5469b20015d7be5b",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/607eeee40b2fec0015310629-1623855134867-PROPERTY_COMMON_PICTURES_u8njfn.jpg",
+          "position": 7,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "607eeee40b2fec001531062a",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 500,
+            "utilities": 30,
+            "availableAt": "2021-04-20T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "607eef380b2fec001531062d",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 500,
+            "utilities": 30,
+            "availableAt": "2022-04-02T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60dc45c853f73b001567693d",
+          "roomIdNumber": 6,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 500,
+            "utilities": 30,
+            "availableAt": "2022-03-03T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "610962ee7e70f600159072ce",
+          "roomIdNumber": 7,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 530,
+            "utilities": 30,
+            "availableAt": "2021-08-06T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "12 Rue des Tonnelles",
+        "city": "Montpellier",
+        "zip": "34080",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 500,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "612e4463b2f165001671bdd5",
+      "propertyIdNumber": 3890,
+      "title": "Coliving - Appartement T4 86m² - Montpellier 34080",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 86,
+      "nbRooms": 4,
+      "isCrushed": false,
+      "isKolivingPlus": true,
+      "floor": 2,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "620293b1678c2700162f646d",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/612e4463b2f165001671bdd5-1644336047113-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "620293b1678c2700162f646a",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/612e4463b2f165001671bdd5-1644336046989-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "620293b0678c2700162f6467",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/612e4463b2f165001671bdd5-1644336047288-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "612e4463b2f165001671bdd6",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 490,
+            "utilities": 80,
+            "availableAt": "2021-12-22T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "612e4463b2f165001671bdd7",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 555,
+            "utilities": 80,
+            "availableAt": "2022-02-03T01:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "612e44a4b2f165001671bdd9",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 555,
+            "utilities": 80,
+            "availableAt": "2021-09-01T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": null,
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "2800 Av. des Moulins",
+        "city": "Montpellier",
+        "zip": "34080",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 490,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "60c77533d3696800153aa2a7",
+      "propertyIdNumber": 3728,
+      "title": "Coliving - Appartement T5 101m² - Montpellier 34080",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 101,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": true,
+      "floor": 2,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "60c777f8d3696800153aa2b5",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60c77533d3696800153aa2a7-1623685111997-PROPERTY_COMMON_PICTURES_d2dwad.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60c777fbd3696800153aa2be",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60c77533d3696800153aa2a7-1623685115296-PROPERTY_COMMON_PICTURES_dr9gfq.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60c77801d3696800153aa2c1",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60c77533d3696800153aa2a7-1623685120741-PROPERTY_COMMON_PICTURES_xtq3sw.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60c777f8d3696800153aa2bb",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60c77533d3696800153aa2a7-1623685112587-PROPERTY_COMMON_PICTURES_lr7wei.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60c777f8d3696800153aa2b8",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60c77533d3696800153aa2a7-1623685112043-PROPERTY_COMMON_PICTURES_vhzokp.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60c777f8d3696800153aa2b2",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/60c77533d3696800153aa2a7-1623685111819-PROPERTY_COMMON_PICTURES_vrxy3f.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "60c77533d3696800153aa2a8",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 485,
+            "utilities": 50,
+            "availableAt": "2021-06-14T10:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60c7755bd3696800153aa2ab",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60c7755bd3696800153aa2ac",
+          "roomIdNumber": 4,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "60dc3c8a53f73b001567690a",
+          "roomIdNumber": 6,
+          "rentInfos": {
+            "state": "IN_RENT",
+            "rentPrice": 485,
+            "utilities": 50,
+            "availableAt": "2021-11-12T23:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "55 Route de Lodève",
+        "city": "Montpellier",
+        "zip": "34080",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 485,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "617bcbca63520e0016773477",
+      "propertyIdNumber": 3957,
+      "title": "Coliving - Maison T8 110m² - Montpellier 34000",
+      "type": "house",
+      "rentType": "SHARED",
+      "surface": 110,
+      "nbRooms": 8,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": null,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "617bcd6763520e0016773841",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcbca63520e0016773477-1635503463008-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bcd6763520e001677383b",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcbca63520e0016773477-1635503462943-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bcd6763520e0016773838",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcbca63520e0016773477-1635503462888-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bcd6763520e0016773835",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcbca63520e0016773477-1635503462819-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "617bcc0b63520e001677347b",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 590,
+            "utilities": 50,
+            "availableAt": "2021-12-06T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bcc0b63520e001677347c",
+          "roomIdNumber": 2,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bcc0b63520e001677347d",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "12 Rue de Rethel",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 590,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "617ab8b47d818b001604718c",
+      "propertyIdNumber": 3949,
+      "title": "Location - Appartement T1 24m² - Montpellier 34090",
+      "type": "apt",
+      "rentType": "ENTIRE",
+      "surface": 24,
+      "nbRooms": 1,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": 3,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": "AVAILABLE",
+        "rentPrice": 630,
+        "utilities": 80,
+        "availableAt": "2021-11-10T11:00:00.000Z",
+        "minimumRentalDuration": null,
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "617abc5263520e001677036b",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab8b47d818b001604718c-1635433552451-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617abc5163520e0016770368",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab8b47d818b001604718c-1635433552203-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617abc5163520e0016770365",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab8b47d818b001604718c-1635433552132-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617abc5063520e0016770362",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab8b47d818b001604718c-1635433551563-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": null,
+      "addressObj": {
+        "street": "34 Av. Pierre d'Adhémar",
+        "city": "Montpellier",
+        "zip": "34090",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 630,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "617ab4827d818b0016047154",
+      "propertyIdNumber": 3948,
+      "title": "Coliving - Appartement T5 92m² - Montpellier 34070",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 92,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": 4,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "617ab76b7d818b0016047175",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432298113-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7677d818b0016047172",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432294740-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7677d818b001604716f",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432294839-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7677d818b001604716c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432294746-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7677d818b0016047169",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432293619-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7667d818b0016047166",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432293027-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 5,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7657d818b0016047163",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432292941-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 6,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7657d818b0016047160",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432292982-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 7,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7657d818b001604715d",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432292949-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 8,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617ab7657d818b001604715a",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617ab4827d818b0016047154-1635432292929-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 9,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "617ab4f57d818b0016047156",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 470,
+            "utilities": 50,
+            "availableAt": "2022-02-03T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617ab4f57d818b0016047157",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 470,
+            "utilities": 50,
+            "availableAt": "2022-01-07T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617ab4f57d818b0016047158",
+          "roomIdNumber": 3,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 470,
+            "utilities": 50,
+            "availableAt": "2022-02-11T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617ab4f57d818b0016047159",
+          "roomIdNumber": 4,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "12 Rue Jean Raimond de Comminges",
+        "city": "Montpellier",
+        "zip": "34070",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 470,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "617bcc6363520e00167737e9",
+      "propertyIdNumber": 3959,
+      "title": "Coliving - Appartement T5 108m² - Montpellier 34070",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 108,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": 3,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "617bcee863520e0016773872",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcc6363520e00167737e9-1635503848252-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bcee863520e001677386f",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcc6363520e00167737e9-1635503848102-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bcee863520e001677386c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcc6363520e00167737e9-1635503848007-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "617bccd663520e0016773805",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 400,
+            "utilities": 25,
+            "availableAt": "2022-01-13T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bccd663520e0016773806",
+          "roomIdNumber": 2,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bccd663520e0016773807",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bccd663520e0016773808",
+          "roomIdNumber": 4,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "35 Rue de la Figairasse",
+        "city": "Montpellier",
+        "zip": "34070",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 400,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "617bcf6263520e00167738a6",
+      "propertyIdNumber": 3964,
+      "title": "Coliving - Maison T6 100m² - Montpellier 34000",
+      "type": "house",
+      "rentType": "SHARED",
+      "surface": 100,
+      "nbRooms": 6,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": null,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "617bd07463520e0016773908",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcf6263520e00167738a6-1635504243989-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd07463520e0016773905",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcf6263520e00167738a6-1635504244024-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd07463520e00167738ff",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bcf6263520e00167738a6-1635504243911-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "617bcfbe63520e00167738c0",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 570,
+            "utilities": 60,
+            "availableAt": "2021-11-15T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bcfbe63520e00167738c1",
+          "roomIdNumber": 2,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bcfbe63520e00167738c2",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "26 Rue de la Géode",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 570,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "617bd5045e7d8a0016a507e4",
+      "propertyIdNumber": 3974,
+      "title": "Coliving - Appartement T5 83m² - Montpellier 34000",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 83,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": 3,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "617bd6265e7d8a0016a5083b",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd5045e7d8a0016a507e4-1635505701361-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd6255e7d8a0016a50835",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd5045e7d8a0016a507e4-1635505700038-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd6245e7d8a0016a50832",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd5045e7d8a0016a507e4-1635505699957-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd6245e7d8a0016a5082c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd5045e7d8a0016a507e4-1635505699877-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 3,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd6245e7d8a0016a50829",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd5045e7d8a0016a507e4-1635505699832-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 4,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "617bd56b5e7d8a0016a50804",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 550,
+            "utilities": 60,
+            "availableAt": "2021-12-01T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bd56b5e7d8a0016a50806",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "617bd57d5e7d8a0016a50808",
+          "roomIdNumber": 4,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "89 Rue Jules Isaac",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 550,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "6012be3d9f532400154cd672",
+      "propertyIdNumber": 3108,
+      "title": "Coliving - Appartement T3 60m² - Montpellier 34000",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 60,
+      "nbRooms": 3,
+      "isCrushed": false,
+      "isKolivingPlus": null,
+      "floor": 1,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "6012d0ff9f532400154cd79b",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6012be3d9f532400154cd672-1611845887310-PROPERTY_COMMON_PICTURES_k8sr5g.png",
+          "position": null,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6012d0ff9f532400154cd79e",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6012be3d9f532400154cd672-1611845887637-PROPERTY_COMMON_PICTURES_lguiqh.png",
+          "position": null,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "6012d0ff9f532400154cd79f",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6012be3d9f532400154cd672-1611845887506-PROPERTY_COMMON_PICTURES_bvlmzj.png",
+          "position": null,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "6012be3d9f532400154cd673",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 670,
+            "utilities": 170,
+            "availableAt": "2021-02-17T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "6012cf619f532400154cd786",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "5 Rue Léonard De Vinci",
+        "city": "Montpellier",
+        "zip": "34000",
+        "neighborhood": "Port Marianne",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": true,
+      "lowestRoomPrice": 670,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "617bd0ef63520e001677392b",
+      "propertyIdNumber": 3968,
+      "title": "Location - Appartement T2 48m² - Montpellier 34080",
+      "type": "apt",
+      "rentType": "ENTIRE",
+      "surface": 48,
+      "nbRooms": 2,
+      "isCrushed": false,
+      "isKolivingPlus": false,
+      "floor": 2,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": "AVAILABLE",
+        "rentPrice": 590,
+        "utilities": 20,
+        "availableAt": "2021-12-24T11:00:00.000Z",
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "617bd31b63520e0016773996",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd0ef63520e001677392b-1635504922285-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 0,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd2ae63520e0016773966",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd0ef63520e001677392b-1635504813375-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 1,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "617bd2ae63520e0016773963",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/617bd0ef63520e001677392b-1635504813297-PROPERTY_COMMON_PICTURES.jpg",
+          "position": 2,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": null,
+      "addressObj": {
+        "street": "30 All. Surcouf",
+        "city": "Montpellier",
+        "zip": "34080",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": false,
+      "lowestRoomPrice": 590,
+      "__typename": "PropertyResponseDto"
+    },
+    {
+      "_id": "6011478a11aafd00151c85d9",
+      "propertyIdNumber": 3015,
+      "title": "Coliving - Appartement T5 90m² - Baillargues 34670",
+      "type": "apt",
+      "rentType": "SHARED",
+      "surface": 90,
+      "nbRooms": 5,
+      "isCrushed": false,
+      "isKolivingPlus": null,
+      "floor": 3,
+      "nbFloors": null,
+      "rentInfos": {
+        "state": null,
+        "rentPrice": null,
+        "utilities": null,
+        "availableAt": null,
+        "minimumRentalDuration": "SHORT_TERM",
+        "__typename": "RentInfosResponseDto"
+      },
+      "description": null,
+      "createdAt": null,
+      "updatedAt": null,
+      "pictures": [
+        {
+          "_id": "60114f7011aafd00151c869c",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6011478a11aafd00151c85d9-1611747183816-PROPERTY_COMMON_PICTURES_p4tjso.png",
+          "position": null,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60114f7311aafd00151c869f",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6011478a11aafd00151c85d9-1611747187211-PROPERTY_COMMON_PICTURES_h6fwhg.png",
+          "position": null,
+          "__typename": "PictureDto"
+        },
+        {
+          "_id": "60114f7811aafd00151c86a2",
+          "url": "https://res.cloudinary.com/koliving/image/upload/q_auto,g_south_east,x_5,y_5,l_misc:logo-white_tfsdda/properties/6011478a11aafd00151c85d9-1611747192543-PROPERTY_COMMON_PICTURES_bjkvdf.png",
+          "position": null,
+          "__typename": "PictureDto"
+        }
+      ],
+      "videos": null,
+      "rooms": [
+        {
+          "_id": "6011481e11aafd00151c85e3",
+          "roomIdNumber": 4,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "6011478a11aafd00151c85db",
+          "roomIdNumber": 2,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 795,
+            "utilities": 75,
+            "availableAt": "2021-03-01T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "6011481e11aafd00151c85e2",
+          "roomIdNumber": 3,
+          "rentInfos": null,
+          "__typename": "RoomResponseDto"
+        },
+        {
+          "_id": "6011478a11aafd00151c85da",
+          "roomIdNumber": 1,
+          "rentInfos": {
+            "state": "AVAILABLE",
+            "rentPrice": 825,
+            "utilities": 75,
+            "availableAt": "2021-03-01T11:00:00.000Z",
+            "isAvailable": true,
+            "minimumRentalDuration": "SHORT_TERM",
+            "__typename": "RentInfosResponseDto"
+          },
+          "__typename": "RoomResponseDto"
+        }
+      ],
+      "addressObj": {
+        "street": "3 Rue Des Multipliants",
+        "city": "Baillargues",
+        "zip": "34670",
+        "neighborhood": "",
+        "__typename": "PropertyAddressDto"
+      },
+      "isDeactivated": true,
+      "lowestRoomPrice": 795,
+      "__typename": "PropertyResponseDto"
+    }
+  ]
+}

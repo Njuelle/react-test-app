@@ -7,7 +7,25 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.propertyCard {
+  margin: 0 0 0 1em;
+  padding: 1em;
 }
+
+.propertyCard-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.slider,
+.slider-item {
+  width: 300px;
+  height: 200px;;
+}
+
+.slider-item img {
+  object-fit: cover;
+}
+
+
+
