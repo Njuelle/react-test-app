@@ -2,7 +2,6 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Slider from './Slider';
-import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse';
 
 // I'm really not sure about this business rule
 const NO_MINIMAL_RENTAL_DURATION = 'SHORT_TERM'
@@ -26,8 +25,15 @@ export default function PropertyCard(props) {
               <h3>{props.property.title}</h3>
             </div> 
             <div className="propertyCard-content__body">
-              {props.property.nbRooms} pièces de {props.property.surface}m² 
-              au {props.property.floor}ème étage - Meublé
+              <p>
+                {props.property.nbRooms} pièces de {props.property.surface}m² 
+                au {props.property.floor}ème étage - Meublé
+              </p>
+              {
+                props.property.rooms?.length
+                  ? <p>{props.property.rooms.length} chambres disponible</p>
+                  : null
+              }
             </div>
             <div className="propertyCard-content__footer">
               {
